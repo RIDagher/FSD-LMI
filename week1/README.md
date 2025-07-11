@@ -2,37 +2,7 @@
 **Dates covered:** July 4–10, 2025
 **Total applications:** 10
 
-### 📩 Applications Submitted
-
-1. **Junior Software Developer** – Pacific Data Integrators   
-   _Applied on July 5_
-
-2. **Full Stack Engineer (Java / React)** – Applicantz  
-   _Applied on July 5_
-
-3. **C# and React FullStack Developer** – QUANTEAM 
-   _Applied on July 5_
-
-4. **Internship (IT sector)** – DesJardins 
-   _Confirmation received_
-
-5. **Software Engineering Intern** – Super.com  
-   _Confirmation received on July 4_
-
-6. **Node.js Developer** – Spectraforce 
-   _Applied recently_
-
-7. **Développeur Fullstack (React / Node / TS) 
-   _Application viewed_
-
-8. **Front-End Web Programmer** – bMod (Hybrid, Montreal)  
-   _Applied 1 day ago_
-
-9. **Full Stack Developer** – Vaco by Highspring (Hybrid, Montreal)  
-   _Applied 1 week ago_
-
-10. **Lightspeed** – Application confirmation received  
-   _Thank you message included_
+### 📩 Applications Submitted - 10 -
 
 
 <img width="462" height="196" alt="Screenshot 2025-07-10 at 8 16 48 PM" src="https://github.com/user-attachments/assets/e6dbf355-9459-463a-9dc4-8a93458e5713" />
