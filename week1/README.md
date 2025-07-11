@@ -1,3 +1,11 @@
+## Week 1 Applications
+
+- Pacific Data Integrators – Junior Software Developer (July 5)
+- Applicantz – Full Stack Engineer Java/React (July 5)
+- QUANTEAM – C# and React Fullstack Developer (July 5)
+- Lightspeed – Application received (email confirmation)
+
+
 <img width="462" height="196" alt="Screenshot 2025-07-10 at 8 16 48 PM" src="https://github.com/user-attachments/assets/e6dbf355-9459-463a-9dc4-8a93458e5713" />
 <img width="452" height="163" alt="Screenshot 2025-07-10 at 8 17 11 PM" src="https://github.com/user-attachments/assets/c738a20a-91b6-4437-8dfd-ad5ce9e68ac0" />
 <img width="483" height="122" alt="Screenshot 2025-07-10 at 8 17 56 PM" src="https://github.com/user-attachments/assets/2f199031-8a58-461b-ac3b-8d931a75ad37" />
